@@ -1,0 +1,16 @@
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/Candle.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/Launcher.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/Main.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/ManualOrder.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/ManualTradingService.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/MarketDataFeed.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/OrderExecutionResult.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/OrderRecord.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/OrderSide.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/OrderStatus.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/OrderType.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/PortfolioState.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/PositionSnapshot.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/PriceChartPanel.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/StockDataLoader.java
+/home/veenit/Downloads/OOP_project/stockbacktester/src/main/java/com/backtester/SyntheticDataGenerator.java
